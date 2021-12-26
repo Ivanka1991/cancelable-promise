@@ -1,0 +1,15 @@
+{
+  "name": "cancelable-promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cancelable-promice.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ivanka Buravetska",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.1",
+    "prettier": "^2.3.0"
+  }
+}
